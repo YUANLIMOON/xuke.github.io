@@ -1,10 +1,29 @@
-## Welcome to GitHub Pages
+## 
+<table border="0"ゝ
 
-You can use the [editor on GitHub](https://github.com/YUANLIMOON/xuke.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<tr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<td width="75%" >
 
-### Markdown
+<h1>许轲</h1>
+
+<p><b>本科生</b></p>
+
+<p><b>浙江万里学院信息与智能科技学院</b></p>
+
+<p><b>邮箱：1477977237@qq . com</b></p>
+
+<p><b>地址: 宁波市鄞州区盛莫路路浙江万里学院，6楼</b></p>
+
+</td>
+
+<td width="25%">
+
+<img src=" /zhengjianzhao. jpg" width=" 100%" >   ![](img_url)
+
+</td>
+
+### 个人兴趣特点
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
